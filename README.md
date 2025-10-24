@@ -5,6 +5,7 @@ Bu proje, Python programlama dilinin temellerini pekiştirmek amacıyla gelişti
 Bu proje, Social Office Bilgi Teknolojileri Stajı Python Eğitimi kapsamında bir ödev olarak hazırlanmıştır.
 
 🦋 Projenin Amacı ve Öğrenme Hedefleri
+
 Projenin temel amacı, Python dilindeki temel yapıları kullanarak fonksiyonel bir uygulama geliştirmektir. Bu proje ile aşağıdaki yetkinliklerin kazanılması hedeflenmiştir:
 
 Değişkenler ve listeler gibi temel veri yapılarını kullanma.
@@ -31,6 +32,7 @@ Veri Kalıcılığı: Eklenen, düzenlenen veya silinen tüm görevler, program�
 Hata Yönetimi: Geçersiz menü seçimleri, var olmayan görev numaraları veya sayısal olmayan girişler gibi temel kullanıcı hataları ele alınır.
 
 💻 Kullanılan Teknolojiler
+
 Python 3
 
 Temel Python kütüphaneleri (Dosya işlemleri için open fonksiyonu)
